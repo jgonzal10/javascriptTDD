@@ -1,0 +1,5 @@
+{
+    "name": "Server Developement",
+    "database": "mongodb://dev:jgojgodev@ds123834.mlab.com:23834/development",
+    "port": 3000
+    }

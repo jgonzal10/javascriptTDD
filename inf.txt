@@ -1,0 +1,6 @@
+    //jgojgo10
+    mongo 
+    mongodb://<dbuser>:<dbpassword>@ds123834.mlab.com:23834/development
+    mongodb://dev:jgojgodev@ds123834.mlab.com:23834/development
+    dbuser dev
+    pss jgojgo10 
